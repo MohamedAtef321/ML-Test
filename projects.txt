@@ -1,0 +1,15 @@
+Road Traffic Sign Detection System (Graduation Project) :
+- Creating and organizing a dataset for our task using "Roboflow" platform.
+- Using an Open-Source AI Model called "Yolov8" to perform the detection process, we performed training on Cloud Service called "Google Colab".
+- Deploying our project on a "Raspberry Pi 4" board, and optimizing the model to work faster on the board.
+- Contributing to the Open-Source Yolov8 GitHub Repo, and added an enhancment feature to it, you could check it from here (https://github.com/ultralytics/ultralytics/pull/1569).
+- We are still working on it right now.
+
+Eye Gender Classifier System (Kaggle) :
+- Building an AI Gender Classifier System for human eyes, defining human gender from an image of their eye.
+- Using a Deep Learning Algorithm to make this process work, used TensorFlow Python Library.
+
+House Prices Project - 5 ML models (Kaggle) :
+- Building 5 machine learning models to predict the sale price of houses.
+- The models are evaluated using various metrics such as root mean squared error (RMSE) and R-squared.
+- The project requires skills in data preprocessing, machine learning, and evaluation metrics.
